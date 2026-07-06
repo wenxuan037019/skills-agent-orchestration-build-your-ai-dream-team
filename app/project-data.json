@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "name": "Mobile App Redesign",
+      "owner": "Sarah Chen",
+      "status": "active",
+      "recentActivity": "UI framework implementation underway",
+      "priority": "critical"
+    },
+    {
+      "name": "API Gateway Migration",
+      "owner": "James Rodriguez",
+      "status": "active",
+      "recentActivity": "Performance testing completed yesterday",
+      "priority": "high"
+    },
+    {
+      "name": "Data Analytics Dashboard",
+      "owner": "Emma Williams",
+      "status": "at-risk",
+      "recentActivity": "Blocked on database schema review",
+      "priority": "high"
+    },
+    {
+      "name": "Documentation Portal",
+      "owner": "Michael Park",
+      "status": "paused",
+      "recentActivity": "Waiting for content finalization",
+      "priority": "medium"
+    },
+    {
+      "name": "Q3 Infrastructure Upgrade",
+      "owner": "Lisa Thompson",
+      "status": "completed",
+      "recentActivity": "Final deployment completed 2 weeks ago",
+      "priority": "low"
+    }
+  ]
+}
